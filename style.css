@@ -2,3 +2,8 @@ p{
     color:red;
     Text-align:center;
 }
+
+img{
+    height: 500px;
+    width: 100px;
+}
